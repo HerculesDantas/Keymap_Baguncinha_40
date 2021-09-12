@@ -1,1 +1,1 @@
-# The default keymap for bm43a
+# Meu layout para o teclado bm43
